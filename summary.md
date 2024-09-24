@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Daniel Pasicov
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+A boost/overdrive guitar pedal built using germanium transistors
 
 # Date Started
-11-16-2000
+09-01/2024
